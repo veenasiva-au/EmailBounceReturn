@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="EmailBounceBack">
+  <DataContextMoniker Name="/EmailBounceBackDataContext" />
+  <nestedChildShapes>
+    <classShape Id="a9520e7b-201e-4367-8720-69d3ed074217" absoluteBounds="0.5, 0.5, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/EmailBounceBackDataContext/MailBox" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5a59f49a-7a0a-4f91-8e8c-f4a84007fd2d" absoluteBounds="0.51500000000000012, 0.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="af238d7f-cf48-4d0f-aa28-73d8826bd5bc" absoluteBounds="3.625, 2.625, 2, 1.3862939453124996">
+      <DataClassMoniker Name="/EmailBounceBackDataContext/Documents" />
+      <nestedChildShapes>
+        <elementListCompartment Id="672cabec-4780-4f79-9564-8934543b2acb" absoluteBounds="3.6399999999999997, 3.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="df15da2b-8e2d-4725-88ec-2f097b6af52a" absoluteBounds="3.625, 0.875, 2, 1.3862939453125">
+      <DataClassMoniker Name="/EmailBounceBackDataContext/Setting" />
+      <nestedChildShapes>
+        <elementListCompartment Id="41cf002c-9c7c-4773-aca3-3114012e99c6" absoluteBounds="3.64, 1.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a6590417-0ef7-46b0-a47b-dc1e9184eec1" absoluteBounds="0.5, 1.875, 2, 3.6939111328124996">
+      <DataClassMoniker Name="/EmailBounceBackDataContext/ResendEmail" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b17cd614-b9cf-4943-bd30-08d6df64fec8" absoluteBounds="0.51500000000000012, 2.335, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

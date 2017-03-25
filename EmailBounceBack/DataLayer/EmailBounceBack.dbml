@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="EmailBounceBack" Class="EmailBounceBackDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=h07321\h07321;Initial Catalog=EmailBounceBack;Integrated Security=True" SettingsObjectName="EmailBounceBack.Properties.Settings" SettingsPropertyName="EmailBounceBackConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.MailBoxes" Member="MailBoxes">
+    <Type Name="MailBox">
+      <Column Name="MailboxGUID" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ProfileObject" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Documents" Member="Documents">
+    <Type Name="Documents">
+      <Column Name="DocumentID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="DripfeedPath" Member="DocumentPath" Type="System.String" DbType="varchar(255)" CanBeNull="true" />
+      <Column Name="EmailSubject" Member="Subject" Type="System.String" DbType="varchar(255)" IsPrimaryKey="true" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Settings" Member="Settings">
+    <Type Name="Setting">
+      <Column Name="Name" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Value" Type="System.String" DbType="VarChar(1024)" CanBeNull="true" />
+      <Column Name="Comments" Type="System.String" DbType="VarChar(1024)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ResendEmails" Member="ResendEmails">
+    <Type Name="ResendEmail">
+      <Column Name="EmailID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MailboxGUID" Type="System.Guid" DbType="UniqueIdentifier" CanBeNull="true" />
+      <Column Name="MessageID" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="DocumentID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Subject" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="OriginalDocumentPath" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="OriginalEmailSubject" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ResendSubject" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="RetryCount" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Errors" Type="System.Xml.Linq.XElement" DbType="Xml" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Status" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="InProgress" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="TimeStamp" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="StartTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="EndTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,12 @@
+C:\Devs\EmailBounceBack\EmailBounceBack\bin\Release\EmailBounceBack.exe.config
+C:\Devs\EmailBounceBack\EmailBounceBack\bin\Release\EmailBounceBack.exe
+C:\Devs\EmailBounceBack\EmailBounceBack\bin\Release\EmailBounceBack.pdb
+C:\Devs\EmailBounceBack\EmailBounceBack\bin\Release\Aspose.Email.dll
+C:\Devs\EmailBounceBack\EmailBounceBack\bin\Release\Decipha.Net.dll
+C:\Devs\EmailBounceBack\EmailBounceBack\bin\Release\log4net.dll
+C:\Devs\EmailBounceBack\EmailBounceBack\bin\Release\Decipha.Net.pdb
+C:\Devs\EmailBounceBack\EmailBounceBack\bin\Release\Decipha.Net.xml
+C:\Devs\EmailBounceBack\EmailBounceBack\bin\Release\log4net.xml
+C:\Devs\EmailBounceBack\EmailBounceBack\obj\Release\EmailBounceBack.csprojResolveAssemblyReference.cache
+C:\Devs\EmailBounceBack\EmailBounceBack\obj\Release\EmailBounceBack.exe
+C:\Devs\EmailBounceBack\EmailBounceBack\obj\Release\EmailBounceBack.pdb

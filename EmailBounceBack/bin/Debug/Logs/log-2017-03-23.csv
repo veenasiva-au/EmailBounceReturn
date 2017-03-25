@@ -1,0 +1,56 @@
+2017-03-24 08:48:23,086 INFO [EmailBounceBack.EmailBounceBack]: EmailBounceBack Started.
+2017-03-24 08:48:25,079 DEBUG[EmailBounceBack.Core.EmailMonitor]: Timer Thread - Started
+2017-03-24 08:48:25,479 DEBUG[EmailBounceBack.Core.EmailMonitor]: Processing mailbox {0} ...DeciphaNSW_OEH@deciphad.com.au
+2017-03-24 08:48:39,416 INFO [EmailBounceBack.Core.EmailMonitor]: It is normal message
+2017-03-24 08:48:39,418 INFO [EmailBounceBack.Core.EmailMonitor]: Bounce Message Found : Undeliverable: TestFailure,Subject contains filter text : True
+2017-03-24 08:48:39,419 DEBUG[EmailBounceBack.Core.EmailMonitor]: Validating Mail Subject
+2017-03-24 09:40:46,600 INFO [EmailBounceBack.EmailBounceBack]: EmailBounceBack Started.
+2017-03-24 09:40:48,595 DEBUG[EmailBounceBack.Core.EmailMonitor]: Timer Thread - Started
+2017-03-24 09:40:48,913 DEBUG[EmailBounceBack.Core.EmailMonitor]: Processing mailbox {0} ...DeciphaNSW_OEH@deciphad.com.au
+2017-03-24 09:40:49,618 INFO [EmailBounceBack.Core.EmailMonitor]: Bounce Message Found : Undeliverable: TestFailure,Subject contains filter text : True
+2017-03-24 09:40:49,618 DEBUG[EmailBounceBack.Core.EmailMonitor]: Validating Mail Subject
+2017-03-24 09:40:49,625 INFO [EmailBounceBack.Core.EmailMonitor]: Bounce Message Found : Undeliverable: Mail_WildLife Licensing__07032017_04:16_1of1(1069),Subject contains filter text : True
+2017-03-24 09:40:49,625 DEBUG[EmailBounceBack.Core.EmailMonitor]: Validating Mail Subject
+2017-03-24 09:40:56,393 INFO [EmailBounceBack.Core.EmailMonitor]: Bounce Message Found : Undeliverable: Mail_WildLife Licensing__07032017_04:16_1of1(1069),Subject contains filter text : True
+2017-03-24 09:40:56,393 DEBUG[EmailBounceBack.Core.EmailMonitor]: Validating Mail Subject
+2017-03-24 09:40:57,628 DEBUG[EmailBounceBack.Core.EmailMonitor]: Processing mailbox {0} ...DeciphaNSW_OEH@deciphad.com.au
+2017-03-24 09:40:57,828 INFO [EmailBounceBack.Core.EmailMonitor]: Bounce Message Found : Undeliverable: TestFailure,Subject contains filter text : True
+2017-03-24 09:40:57,828 DEBUG[EmailBounceBack.Core.EmailMonitor]: Validating Mail Subject
+2017-03-24 09:40:57,833 INFO [EmailBounceBack.Core.EmailMonitor]: Bounce Message Found : Undeliverable: Mail_WildLife Licensing__07032017_04:16_1of1(1069),Subject contains filter text : True
+2017-03-24 09:40:57,834 DEBUG[EmailBounceBack.Core.EmailMonitor]: Validating Mail Subject
+2017-03-24 10:39:33,934 INFO [EmailBounceBack.EmailBounceBack]: EmailBounceBack Started.
+2017-03-24 10:39:35,926 DEBUG[EmailBounceBack.Core.EmailMonitor]: Timer Thread - Started
+2017-03-24 10:39:36,260 DEBUG[EmailBounceBack.Core.EmailMonitor]: Processing mailbox {0} ...DeciphaNSW_OEH@deciphad.com.au
+2017-03-24 10:39:37,049 INFO [EmailBounceBack.Core.EmailMonitor]: Bounce Message Found : Undeliverable: TestFailure,Subject contains filter text : True
+2017-03-24 10:39:37,049 DEBUG[EmailBounceBack.Core.EmailMonitor]: Validating Mail Subject
+2017-03-24 10:39:37,086 INFO [EmailBounceBack.Core.EmailMonitor]: Bounce Message Found : Undeliverable: Mail_WildLife Licensing__07032017_04:16_1of1(1069),Subject contains filter text : True
+2017-03-24 10:39:37,087 DEBUG[EmailBounceBack.Core.EmailMonitor]: Validating Mail Subject
+2017-03-24 10:39:41,500 DEBUG[EmailBounceBack.Core.EmailMonitor]: Processing mailbox {0} ...DeciphaNSW_OEH@deciphad.com.au
+2017-03-24 10:39:41,572 DEBUG[EmailBounceBack.Core.EmailMonitor]: Timer Thread - Released
+2017-03-24 10:39:43,407 DEBUG[EmailBounceBack.Core.EmailMonitor]: Timer Thread - Started
+2017-03-24 10:39:43,407 DEBUG[EmailBounceBack.Core.EmailMonitor]: Processing mailbox {0} ...DeciphaNSW_OEH@deciphad.com.au
+2017-03-24 10:39:43,488 DEBUG[EmailBounceBack.Core.EmailMonitor]: Timer Thread - Released
+2017-03-24 10:39:45,408 DEBUG[EmailBounceBack.Core.EmailMonitor]: Timer Thread - Started
+2017-03-24 10:39:45,408 DEBUG[EmailBounceBack.Core.EmailMonitor]: Processing mailbox {0} ...DeciphaNSW_OEH@deciphad.com.au
+2017-03-24 10:39:45,774 DEBUG[EmailBounceBack.Core.EmailMonitor]: Timer Thread - Released
+2017-03-24 10:39:47,408 DEBUG[EmailBounceBack.Core.EmailMonitor]: Timer Thread - Started
+2017-03-24 10:39:47,409 DEBUG[EmailBounceBack.Core.EmailMonitor]: Processing mailbox {0} ...DeciphaNSW_OEH@deciphad.com.au
+2017-03-24 10:39:47,511 DEBUG[EmailBounceBack.Core.EmailMonitor]: Timer Thread - Released
+2017-03-24 10:39:49,409 DEBUG[EmailBounceBack.Core.EmailMonitor]: Timer Thread - Started
+2017-03-24 10:39:49,409 DEBUG[EmailBounceBack.Core.EmailMonitor]: Processing mailbox {0} ...DeciphaNSW_OEH@deciphad.com.au
+2017-03-24 10:39:49,504 DEBUG[EmailBounceBack.Core.EmailMonitor]: Timer Thread - Released
+2017-03-24 10:39:51,409 DEBUG[EmailBounceBack.Core.EmailMonitor]: Timer Thread - Started
+2017-03-24 10:39:51,409 DEBUG[EmailBounceBack.Core.EmailMonitor]: Processing mailbox {0} ...DeciphaNSW_OEH@deciphad.com.au
+2017-03-24 10:39:52,102 DEBUG[EmailBounceBack.Core.EmailMonitor]: Timer Thread - Released
+2017-03-24 10:42:54,323 INFO [EmailBounceBack.EmailBounceBack]: EmailBounceBack Started.
+2017-03-24 10:42:56,317 DEBUG[EmailBounceBack.Core.EmailMonitor]: Timer Thread - Started
+2017-03-24 10:42:56,603 DEBUG[EmailBounceBack.Core.EmailMonitor]: Processing mailbox {0} ...DeciphaNSW_OEH@deciphad.com.au
+2017-03-24 10:43:10,247 INFO [EmailBounceBack.Core.EmailMonitor]: Bounce Message Found : Undeliverable: Mail_WildLife Licensing__07032017_04:16_1of1(1069),Subject contains filter text : True
+2017-03-24 10:43:11,690 DEBUG[EmailBounceBack.Core.EmailMonitor]: Validating Mail Subject
+2017-03-24 10:43:41,273 DEBUG[EmailBounceBack.Core.EmailMonitor]: Processing mailbox {0} ...DeciphaNSW_OEH@deciphad.com.au
+2017-03-24 10:43:44,760 DEBUG[EmailBounceBack.Core.EmailMonitor]: Timer Thread - Released
+2017-03-24 10:43:58,847 DEBUG[EmailBounceBack.Core.EmailMonitor]: Timer Thread - Started
+2017-03-24 10:43:58,848 DEBUG[EmailBounceBack.Core.EmailMonitor]: Processing mailbox {0} ...DeciphaNSW_OEH@deciphad.com.au
+2017-03-24 10:43:58,953 DEBUG[EmailBounceBack.Core.EmailMonitor]: Timer Thread - Released
+2017-03-24 10:44:00,848 DEBUG[EmailBounceBack.Core.EmailMonitor]: Timer Thread - Started
+2017-03-24 10:44:00,848 DEBUG[EmailBounceBack.Core.EmailMonitor]: Processing mailbox {0} ...DeciphaNSW_OEH@deciphad.com.au
